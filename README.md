@@ -1,22 +1,23 @@
-- 👋 Hi, I’m @Shamorrito
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div class="jumbotron">
+    <h1>
+      Good Morning/Evening/Afternoon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>      
+    <p>
+      I’m Benjamin Chamorro, currently in my 4th year studying Civil Engineering in Computer Science at Andrés Bello University.
+    </p>
+</div>
+<div>
+  <h1>
+    Social Media:
+    <a href="https://www.linkedin.com/in/bcham0512/">
+      <img src=https://raw.githubusercontent.com/Shamorrito/Shamorrito/main/images/linkedin.png alt="LinkedIn" width="30px">
+    </a>
+    <a href="https://twitter.com/shamorrito">
+      <img src=https://raw.githubusercontent.com/Shamorrito/Shamorrito/main/images/twitter.png alt="Twitter" width="30px">
+    </a>
+    <a href="https://www.instagram.com/fearless_wizard_/">
+      <img src=https://raw.githubusercontent.com/Shamorrito/Shamorrito/main/images/instagram.png alt="Instagram" width="30px" height="30px">
+    </a>
+  </h1>
+</div>
 
-
-[![Twitter][1.1]][1]
-[![LinkedIn][2.1]][2]
-[![Instagram][3.1]][3]
-
-<!-- iconos -->
-
-[1.1]:![linkedin](https://user-images.githubusercontent.com/105572500/168455148-1c9ad1bb-8227-447e-8ea8-b2250e82f23f.png)
-[2.1]:![twitter](https://user-images.githubusercontent.com/105572500/168455149-b9fda2f9-317f-4c2a-9eb5-c1a9072a0358.png)
-[3.1]:![instagram](https://user-images.githubusercontent.com/105572500/168455139-85a217b2-aab0-4b19-84d1-b709137c827a.png)
-
-<!-- links -->
-
-[1]: https://twitter.com/shamorrito
-[2]: https://www.linkedin.com/in/bcham0512/
-[3]: https://www.instagram.com/fearless_wizard_/
