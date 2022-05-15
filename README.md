@@ -4,14 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Shamorrito/Shamorrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
+[![Twitter][1.1]][1]
+[![LinkedIn][2.1]][2]
+[![Instagram][3.1]][3]
 
 <!-- iconos -->
 
